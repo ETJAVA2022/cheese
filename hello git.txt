@@ -3,8 +3,4 @@ Hello Git by tom2022
 modify hello git content 
 test by pull away
 
-
-Test conflict by version 
-
-测试拉取版本冲突
-
+测试拉取冲突 by tom
