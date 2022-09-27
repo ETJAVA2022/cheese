@@ -4,3 +4,4 @@ modify hello git content
 test by pull away
 
 测试拉取版本冲突
+测试本地拉取冲突 by etjava
